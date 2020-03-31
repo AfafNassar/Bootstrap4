@@ -1,0 +1,22 @@
+.headset{
+	 background-image: url(&quot;img/big_image_2.jpg&quot;), fixed;
+  min-height: 600px !important;
+  background-position: 50% 0px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+.head-text{
+	position: absolute;
+	top: 300px;
+	color: white;
+}
+.yellow{
+	background-color: #e7a61a;
+	color: white;
+	text-align: center;
+}
+.big{
+	font-size: 50px;
+	color: #e7a61a;
+}
